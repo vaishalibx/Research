@@ -14,10 +14,16 @@ The application also fetches trending news articles related to the keywords.
 Workflow
 1. User Input:
 Users enter keywords into a text area, specifying what information or content they are interested in.
+
+
 2.Search Execution:
 Upon clicking the "Start Research" button, the application performs searches using the DuckDuckGo agent and fetches relevant news articles.
+
+
 3.Results Display:
 The application displays the search results, content ideas, and news articles in separate tabs. Users can view detailed information, including titles, links, and snippets for each search result.
+
+
 4.Content Creation:
 Users can generate and edit social media posts based on the content ideas provided, making it easy to share engaging content with their audience.
 
