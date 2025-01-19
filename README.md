@@ -1,7 +1,5 @@
 # Research Agent
 
-# Research Agent
-
 ## Overview
 The **Research Agent** is a web application developed using **Streamlit** that assists users in finding information and generating creative content ideas based on specific keywords. By leveraging the DuckDuckGo search engine and the News API, this application provides a comprehensive tool for researchers, content creators, and marketers to gather information and brainstorm new ideas efficiently.
 
